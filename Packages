@@ -13,7 +13,7 @@ SHA256: 658548ba92377445500f09c5ff0f9a4b32f92cb4914a142cac8a9e7b84621547
 Description: Display an alert with option to close, relaunch, dismiss switcher and cancel when you try to swipe application up through application switcher.
 Name: AlertClose
 Author: DGh0st <deeppwnage@yahoo.com>
-Depiction: https://DGh0st.github.io/Files/?p=com.dgh0st.alertclose
+Depiction: https://shoez1.github.io/DGh0st.github.io/Files/?p=com.dgh0st.alertclose
 
 Package: com.dgh0st.alertclose
 Version: 1.3
